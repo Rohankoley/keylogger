@@ -11,3 +11,4 @@ Requirements
 Python 3.6 or higher
 pynput library for capturing keyboard events
 smtplib and ssl for sending mail
+demonstration video - https://www.youtube.com/watch?v=qNcDgzvkvD8
